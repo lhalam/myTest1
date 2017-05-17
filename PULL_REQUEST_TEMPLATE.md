@@ -16,7 +16,7 @@ Need to ad gems for testing  into the application
 
 ## Summary of change
 
-ToDo
+- added gems and related changes
 
 ## Testing approach
 
@@ -29,3 +29,4 @@ We do not need any tests here
 - [ ]  All reviewers agreed to merge the PR
 - [ ]  I've checked new feature as logged in and logged out user if needed
 - [ ]  PR meets all conventions
+
