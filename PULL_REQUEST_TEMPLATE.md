@@ -16,7 +16,7 @@ Need to ad gems for testing  into the application
 
 ## Summary of change
 
-- added gems and related changes
+ToDo
 
 ## Testing approach
 
